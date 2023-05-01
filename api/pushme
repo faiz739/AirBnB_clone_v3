@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "improved the storage files"
+git commit -m "improved the tests storage files"
 git push
