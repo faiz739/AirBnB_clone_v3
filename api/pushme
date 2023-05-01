@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "improved the base models files"
+git commit -m "improved the users models files"
 git push
